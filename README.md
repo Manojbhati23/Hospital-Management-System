@@ -33,10 +33,10 @@ To install and run the Hospital Management System locally, follow these steps:
     ```
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Others:** Docker, JWT for authentication
+- **Frontend:** HTML, CSS, JavaScript, 
+- **Backend:** Node.js, 
+- **Database:** Mysql
+-   
 
 ## Usage
 1. Open your web browser and navigate to `http://localhost:3000` to access the application.
